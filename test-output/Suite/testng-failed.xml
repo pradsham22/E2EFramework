@@ -8,8 +8,6 @@
     <classes>
       <class name="Academy.ValidateTitle">
         <methods>
-          <include name="getTitle"/>
-          <include name="getHeader"/>
           <include name="getTitleFailed"/>
           <include name="browserInitialise"/>
           <include name="tearDown"/>
@@ -17,26 +15,4 @@
       </class> <!-- Academy.ValidateTitle -->
     </classes>
   </test> <!-- Home Page Title check(failed) -->
-  <test thread-count="5" parallel="tests" name="Login Check(failed)">
-    <classes>
-      <class name="Academy.LoginHome">
-        <methods>
-          <include name="browserInitialise"/>
-          <include name="teardown"/>
-          <include name="LoginPage"/>
-        </methods>
-      </class> <!-- Academy.LoginHome -->
-    </classes>
-  </test> <!-- Login Check(failed) -->
-  <test thread-count="5" parallel="tests" name="Navigation bar(failed)">
-    <classes>
-      <class name="Academy.ValidateNavBar">
-        <methods>
-          <include name="getNavBar"/>
-          <include name="browserInitialise"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- Academy.ValidateNavBar -->
-    </classes>
-  </test> <!-- Navigation bar(failed) -->
 </suite> <!-- Failed suite [Suite] -->

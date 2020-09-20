@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.788 s <<< FAILURE! - in TestSuite
-Academy.ValidateTitle.getTitleFailed  Time elapsed: 0.009 s  <<< FAILURE!
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.189 s <<< FAILURE! - in TestSuite
+Academy.ValidateTitle.getTitleFailed  Time elapsed: 2.023 s  <<< FAILURE!
 java.lang.AssertionError: expected [FEATUREDCOURSES] but found [FEATURED COURSES]
 	at Academy.ValidateTitle.getTitleFailed(ValidateTitle.java:46)
 

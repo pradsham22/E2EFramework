@@ -14,6 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.opera.OperaDriver;
 
 public class base {
 	
@@ -47,9 +48,15 @@ public class base {
 		} else if (browserName.equalsIgnoreCase("firefox")) {
 			System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir") + "\\BrowserDrivers\\geckodriver.exe");
 			driver = new FirefoxDriver();
+			
 		} else if (browserName.equalsIgnoreCase("edge")) {
 			System.setProperty("webdriver.edge.driver", System.getProperty("user.dir") + "\\BrowserDrivers\\msedgedriver.exe");
 			driver = new EdgeDriver();
+			
+		} else if (browserName.equalsIgnoreCase("opera")) {
+			System.setProperty("webdriver.opera.driver", System.getProperty("user.dir") + "\\BrowserDrivers\\operadriver.exe");
+			driver = new OperaDriver();
+			
 		}
 
 	/*	// 	2) Switch= case

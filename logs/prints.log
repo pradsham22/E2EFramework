@@ -1,7 +1,7 @@
-14:54:22.228 [TestNG-tests-3] INFO  resources.base - Navigated to Homepage
-14:54:22.319 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
-14:54:22.393 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
-14:54:22.399 [TestNG-tests-2] INFO  resources.base - NavBar tested
-14:54:23.205 [TestNG-tests-1] INFO  resources.base - Logged in with user1@gmail.com
-14:54:23.433 [TestNG-tests-1] INFO  resources.base - Logged in with user2@gmail.com
-14:54:23.659 [TestNG-tests-1] INFO  resources.base - Logged in with user3@gmail.com
+18:37:07.028 [TestNG-tests-2] INFO  resources.base - NavBar tested
+18:37:11.090 [TestNG-tests-1] INFO  resources.base - Logged in with user1@gmail.com
+18:37:11.476 [TestNG-tests-3] INFO  resources.base - Navigated to Homepage
+18:37:11.559 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
+18:37:11.570 [TestNG-tests-1] INFO  resources.base - Logged in with user2@gmail.com
+18:37:11.615 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
+18:37:12.497 [TestNG-tests-1] INFO  resources.base - Logged in with user3@gmail.com
