@@ -1,0 +1,7 @@
+11:54:26.350 [TestNG-tests-1] INFO  resources.base - Driver is initialised
+11:54:42.218 [TestNG-tests-1] INFO  resources.base - Navigated to Homepage
+11:54:42.286 [TestNG-tests-1] INFO  resources.base - Successfully validated text message
+11:54:42.317 [TestNG-tests-3] INFO  resources.base - NavBar tested
+11:54:47.910 [TestNG-tests-1] INFO  resources.base - Driver is initialised
+11:54:50.362 [TestNG-tests-1] INFO  resources.base - Navigated to Homepage
+11:55:14.437 [TestNG-tests-2] INFO  resources.base - Logged in with user2@gmail.com

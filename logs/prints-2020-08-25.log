@@ -1,0 +1,6 @@
+14:53:37.320 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
+14:53:37.498 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
+14:53:38.875 [TestNG-tests-1] INFO  resources.base - Logged in with user1@gmail.com
+14:53:39.167 [TestNG-tests-1] INFO  resources.base - Logged in with user2@gmail.com
+14:53:39.482 [TestNG-tests-1] INFO  resources.base - Logged in with user3@gmail.com
+14:54:14.854 [TestNG-tests-3] INFO  resources.base - Driver is initialised
